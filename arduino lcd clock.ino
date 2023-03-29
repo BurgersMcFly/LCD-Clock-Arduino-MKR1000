@@ -1,4 +1,4 @@
-//  AutomaticSoapDispenser, Automatic Soap Dispenser made with Arduino MKR1000
+//  LCD-Clock-Arduino-MKR1000, LCD-Clock made with Arduino MKR1000
 //  Copyright (C) 2022 BurgersMcFly
 
 //  This program is free software: you can redistribute it and/or modify
